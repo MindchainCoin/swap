@@ -1,0 +1,36 @@
+{
+  "..\\..\\node_modules\\@wagmi\\core\\connectors\\coinbaseWallet\\dist\\wagmi-core-connectors-coinbaseWallet.esm.js -> @coinbase/wallet-sdk": {
+    "id": "..\\..\\node_modules\\@wagmi\\core\\connectors\\coinbaseWallet\\dist\\wagmi-core-connectors-coinbaseWallet.esm.js -> @coinbase/wallet-sdk",
+    "files": [
+      "static/chunks/node_modules_coinbase_wallet-sdk_dist_index_js.js"
+    ]
+  },
+  "..\\..\\node_modules\\@wagmi\\core\\connectors\\walletConnect\\dist\\wagmi-core-connectors-walletConnect.esm.js -> @walletconnect/ethereum-provider": {
+    "id": "..\\..\\node_modules\\@wagmi\\core\\connectors\\walletConnect\\dist\\wagmi-core-connectors-walletConnect.esm.js -> @walletconnect/ethereum-provider",
+    "files": [
+      "static/chunks/node_modules_walletconnect_ethereum-provider_dist_esm_index_js.js"
+    ]
+  },
+  "..\\..\\packages\\token-lists\\src\\useFetchListCallback.ts -> ./getTokenList": {
+    "id": "..\\..\\packages\\token-lists\\src\\useFetchListCallback.ts -> ./getTokenList",
+    "files": [
+      "static/chunks/packages_token-lists_src_getTokenList_ts.js"
+    ]
+  },
+  "..\\components\\EasterEgg\\EasterEgg.tsx -> @pancakeswap/uikit": {
+    "id": "..\\components\\EasterEgg\\EasterEgg.tsx -> @pancakeswap/uikit",
+    "files": []
+  },
+  "..\\components\\SubgraphHealthIndicator\\FixedSubgraphHealthIndicator.tsx -> components/SubgraphHealthIndicator": {
+    "id": "..\\components\\SubgraphHealthIndicator\\FixedSubgraphHealthIndicator.tsx -> components/SubgraphHealthIndicator",
+    "files": [
+      "static/chunks/src_components_SubgraphHealthIndicator_index_tsx.js"
+    ]
+  },
+  "_app.tsx -> components/EasterEgg": {
+    "id": "_app.tsx -> components/EasterEgg",
+    "files": [
+      "static/chunks/src_components_EasterEgg_index_ts.js"
+    ]
+  }
+}
