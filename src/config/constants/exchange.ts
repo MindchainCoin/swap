@@ -127,4 +127,4 @@ export const DEFAULT_OUTPUT_CURRENCY = '0x258Ea33a949D8562A2683e1C54D4bAeAd2949F
 export const GELATO_HANDLER = 'pancakeswap'
 export const GENERIC_GAS_LIMIT_ORDER_EXECUTION = BigNumber.from(500000)
 
-export const LIMIT_ORDERS_DOCS_URL = 'https://docs.pancakeswap.finance/products/pancakeswap-exchange/limit-orders'
+export const LIMIT_ORDERS_DOCS_URL = 'https://mindchain.info/blog/'
