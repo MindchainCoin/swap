@@ -23,7 +23,7 @@ export enum Rounding {
   ROUND_UP,
 }
 
-export const FACTORY_ADDRESS = '0xB8F154d1e6B6242AeC2C252E145223ec494749c2'
+export const FACTORY_ADDRESS = '0x0DE085C9082015aeA5E8c75c6227D96E8DD74b3c'
 
 // // TODO: ETH This is test version, do not depends on it
 const FACTORY_ADDRESS_ETH = '0xD93801d7D3a368D94A3A32E97A20f7aC1948a5dB'
