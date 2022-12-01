@@ -57,13 +57,13 @@ const Home: React.FC<React.PropsWithChildren> = () => {
       <PageMeta />
       <style jsx global>{`
         #home-1 .page-bg {
-          background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(190,44,107,1) 47%, rgba(252,176,69,1) 100%);
+          background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1));
         }
         [data-theme='dark'] #home-1 .page-bg {
-          background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(11,27,46,1) 100%);
+          background: radial-gradient(103.12% 50% at 50% 50%, #21193a 0%, #191326 100%);
         }
         #home-2 .page-bg {
-          background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(178,210,152,1) 54%, rgba(187,152,110,0.9783263647255778) 100%);
+          background: linear-gradient(180deg, #ffffff 22%, #d7caec 100%);
         }
         [data-theme='dark'] #home-2 .page-bg {
           background: linear-gradient(180deg, #09070c 22%, #201335 100%);
